@@ -1,0 +1,178 @@
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.csproj.AssemblyReference.cache
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.Form1.resources
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.csproj.GenerateResource.cache
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.AssemblyInfoInputs.cache
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.AssemblyInfo.cs
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.csproj.CoreCompileInputs.cache
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\WorldClient.exe
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\WorldClient.deps.json
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\WorldClient.runtimeconfig.json
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\WorldClient.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\WorldClient.pdb
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Xml.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.Private.ServiceModel.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.Federation.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\cs\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\de\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\es\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\fr\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\it\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\ja\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\ko\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\pl\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\ru\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\tr\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.csproj.CopyComplete
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\obj\Debug\net8.0-windows\refint\WorldClient.dll
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.pdb
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.genruntimeconfig.cache
+C:\BÀI TẬP NỘP\WorldClient\WorldClient\obj\Debug\net8.0-windows\ref\WorldClient.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\WorldClient.exe
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\WorldClient.deps.json
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\WorldClient.runtimeconfig.json
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\WorldClient.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\WorldClient.pdb
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Xml.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.Private.ServiceModel.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.Federation.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\cs\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\de\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\es\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\fr\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\it\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\ja\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\ko\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\pl\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\ru\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\tr\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.csproj.AssemblyReference.cache
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.Form1.resources
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.csproj.GenerateResource.cache
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.AssemblyInfoInputs.cache
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.AssemblyInfo.cs
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.csproj.CoreCompileInputs.cache
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.csproj.CopyComplete
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\obj\Debug\net8.0-windows\refint\WorldClient.dll
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.pdb
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.genruntimeconfig.cache
+C:\BÀI TẬP NỘP\DVPM\WorldClient\WorldClient\obj\Debug\net8.0-windows\ref\WorldClient.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\WorldClient.exe
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\WorldClient.deps.json
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\WorldClient.runtimeconfig.json
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\WorldClient.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\WorldClient.pdb
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.WsTrust.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Xml.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.Private.ServiceModel.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.Federation.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\cs\System.Private.ServiceModel.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\de\System.Private.ServiceModel.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\es\System.Private.ServiceModel.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\fr\System.Private.ServiceModel.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\it\System.Private.ServiceModel.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\ja\System.Private.ServiceModel.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\ko\System.Private.ServiceModel.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\pl\System.Private.ServiceModel.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\ru\System.Private.ServiceModel.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\tr\System.Private.ServiceModel.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\cs\System.ServiceModel.Federation.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\de\System.ServiceModel.Federation.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\es\System.ServiceModel.Federation.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\fr\System.ServiceModel.Federation.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\it\System.ServiceModel.Federation.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\ja\System.ServiceModel.Federation.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\ko\System.ServiceModel.Federation.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\pl\System.ServiceModel.Federation.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Federation.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\ru\System.ServiceModel.Federation.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\tr\System.ServiceModel.Federation.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Federation.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Federation.resources.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.csproj.AssemblyReference.cache
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.Form1.resources
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.csproj.GenerateResource.cache
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.AssemblyInfoInputs.cache
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.AssemblyInfo.cs
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.csproj.CoreCompileInputs.cache
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.sourcelink.json
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldCli.13B50B6F.Up2Date
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\obj\Debug\net8.0-windows\refint\WorldClient.dll
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.pdb
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\obj\Debug\net8.0-windows\WorldClient.genruntimeconfig.cache
+D:\Learning\C# University\SOA\SOAP-Excercises\WorldClient\WorldClient\obj\Debug\net8.0-windows\ref\WorldClient.dll

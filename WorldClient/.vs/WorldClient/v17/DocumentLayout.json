@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\C# University\\SOA\\SOAP-Excercises\\WorldClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2D0A3-5407-406D-B264-DE6A6C04535B}|WorldClient\\WorldClient.csproj|d:\\learning\\c# university\\soa\\soap-excercises\\worldclient\\worldclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF2D0A3-5407-406D-B264-DE6A6C04535B}|WorldClient\\WorldClient.csproj|solutionrelative:worldclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2D0A3-5407-406D-B264-DE6A6C04535B}|WorldClient\\WorldClient.csproj|d:\\learning\\c# university\\soa\\soap-excercises\\worldclient\\worldclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EF2D0A3-5407-406D-B264-DE6A6C04535B}|WorldClient\\WorldClient.csproj|solutionrelative:worldclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2D0A3-5407-406D-B264-DE6A6C04535B}|WorldClient\\WorldClient.csproj|d:\\learning\\c# university\\soa\\soap-excercises\\worldclient\\worldclient\\connected services\\worldservicereference\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7EF2D0A3-5407-406D-B264-DE6A6C04535B}|WorldClient\\WorldClient.csproj|solutionrelative:worldclient\\connected services\\worldservicereference\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2D0A3-5407-406D-B264-DE6A6C04535B}|WorldClient\\WorldClient.csproj|d:\\learning\\c# university\\soa\\soap-excercises\\worldclient\\worldclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF2D0A3-5407-406D-B264-DE6A6C04535B}|WorldClient\\WorldClient.csproj|solutionrelative:worldclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2D0A3-5407-406D-B264-DE6A6C04535B}|WorldClient\\WorldClient.csproj|d:\\learning\\c# university\\soa\\soap-excercises\\worldclient\\worldclient\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF2D0A3-5407-406D-B264-DE6A6C04535B}|WorldClient\\WorldClient.csproj|solutionrelative:worldclient\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectedService.json",
+              "DocumentMoniker": "D:\\Learning\\C# University\\SOA\\SOAP-Excercises\\WorldClient\\WorldClient\\Connected Services\\WorldServiceReference\\ConnectedService.json",
+              "RelativeDocumentMoniker": "WorldClient\\Connected Services\\WorldServiceReference\\ConnectedService.json",
+              "ToolTip": "D:\\Learning\\C# University\\SOA\\SOAP-Excercises\\WorldClient\\WorldClient\\Connected Services\\WorldServiceReference\\ConnectedService.json",
+              "RelativeToolTip": "WorldClient\\Connected Services\\WorldServiceReference\\ConnectedService.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T22:52:44.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\C# University\\SOA\\SOAP-Excercises\\WorldClient\\WorldClient\\Program.cs",
+              "RelativeDocumentMoniker": "WorldClient\\Program.cs",
+              "ToolTip": "D:\\Learning\\C# University\\SOA\\SOAP-Excercises\\WorldClient\\WorldClient\\Program.cs",
+              "RelativeToolTip": "WorldClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T22:52:37.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Learning\\C# University\\SOA\\SOAP-Excercises\\WorldClient\\WorldClient\\Form1.cs",
+              "RelativeDocumentMoniker": "WorldClient\\Form1.cs",
+              "ToolTip": "D:\\Learning\\C# University\\SOA\\SOAP-Excercises\\WorldClient\\WorldClient\\Form1.cs [Design]",
+              "RelativeToolTip": "WorldClient\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T22:48:48.938Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Learning\\C# University\\SOA\\SOAP-Excercises\\WorldClient\\WorldClient\\Form1.cs",
+              "RelativeDocumentMoniker": "WorldClient\\Form1.cs",
+              "ToolTip": "D:\\Learning\\C# University\\SOA\\SOAP-Excercises\\WorldClient\\WorldClient\\Form1.cs",
+              "RelativeToolTip": "WorldClient\\Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T22:48:48.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Learning\\C# University\\SOA\\SOAP-Excercises\\WorldClient\\WorldClient\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WorldClient\\Form1.Designer.cs",
+              "ToolTip": "D:\\Learning\\C# University\\SOA\\SOAP-Excercises\\WorldClient\\WorldClient\\Form1.Designer.cs",
+              "RelativeToolTip": "WorldClient\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T22:48:48.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
